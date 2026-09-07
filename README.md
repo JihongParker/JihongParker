@@ -1,11 +1,15 @@
 # Jihong Park
 
+**Portfolio: [jihongparker.github.io](https://jihongparker.github.io/)** — a macOS-style desktop; open the Finder.
+
 Finance undergraduate at Pusan National University. I build models of corporate risk and then build the systems that run them.
 
 **Current work** — a four-paper research program on one position: a Korean crude importer's joint WTI × USD/KRW exposure. Budget allocation, barrier-aware delta hedging, IFRS 9 hedge accounting, and whether Korea's ESG disclosure mandates actually move corporate hedging (380 KOSPI firms, 9 years of filings). A dated, falsifiable prediction for the KSSB regime is on record: verdict due 2031.
 
 **[HongERP](https://github.com/JihongParker/hong-erp)** — the papers, running live in the browser: [demo](https://jihongparker.github.io/hong-erp/)
 **[wti-fx-hedge-program](https://github.com/JihongParker/wti-fx-hedge-program)** — papers, Python engines, VBA workbooks
+**[hedge-observatory](https://github.com/JihongParker/hedge-observatory)** — parsing every KOSPI derivative footnote into a public hedging panel: [live](https://jihongparker.github.io/hedge-observatory/)
+**[quant-lab](https://github.com/JihongParker/quant-lab)** — 44 interactive quantitative models, zero dependencies: [live](https://jihongparker.github.io/quant-lab/)
 
 **Elsewhere**
 [SSRN](https://ssrn.com/author=12066228) · [LinkedIn](https://www.linkedin.com/in/jihongparker)
